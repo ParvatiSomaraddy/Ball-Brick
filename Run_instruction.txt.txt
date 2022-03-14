@@ -1,0 +1,6 @@
+The submitted standalone Program is simple C program 
+It just need C-compiler to run.
+Steps to run
+1.Download the main.c
+2.Open "main.c" file in c compiler or text editor.
+4.Run the program
